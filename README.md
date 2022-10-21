@@ -5,8 +5,7 @@ Synchronous, Asynchronous and Multipart uploads using OCI Java SDK are demonstra
 # Steps to build and run
 
 ## Step 1: Build and run the application
-You can build and test the application in the OCI Cloud Shell (in that case start the Cloud Shell).
-Otherwise on your machine
+On your machine
   #### Run following commands in the shell:
     java -version # JDK 11 is required. 
     git clone https://github.com/mkratky/osupload.git
