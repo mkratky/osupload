@@ -22,4 +22,4 @@ On your machine
   #### Run following commands in the shell:
     curl -F file=@"yourfilename" localhost:8080/upload # for synchronous upload
     curl -F file=@"yourfilename" localhost:8080/uploada # for asynchronous upload
-    curl -F file=@"yourfilename" localhost:8080/uploadm # for multipart upload
+    curl -F file=@"yourfilename" localhost:8080/uploadm # for multipart upload of very large files
