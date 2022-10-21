@@ -56,7 +56,12 @@
 			<groupId>com.oracle.oci.sdk</groupId>
 			<artifactId>oci-java-sdk-addons-resteasy-client-configurator</artifactId>
 		</dependency>
-	</dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
 
 	<build>
 		<plugins>
